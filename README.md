@@ -3,7 +3,7 @@
 ## C
 
 - [Pathfinding Algorithm in C](https://www.youtube.com/watch?v=vid9KO6Evro)
-- 
+  
 - [Maze Generation Algorithm in C](https://www.youtube.com/watch?v=XdhfcXmfs_g)
 
 ## Python
@@ -29,7 +29,8 @@
 - [Build a Chesscomputer (Playlist)](https://www.youtube.com/watch?v=0QaELGCt9WU&list=PLj_VrUwyDuXQ4_bf0DuWAZ8sY6P7F6RQm)
 
 
-  ## Odin
+## Odin
+  
 - [Making a Bytecode Compiler with Odin (Playlist)](https://www.youtube.com/watch?v=7hs-XNcF3LM&list=PLj_VrUwyDuXRUFX3kNAxYxl1RhvkPnJZ2)
 - [Make Pong in Odin](https://www.youtube.com/watch?v=APpGYqgiipE)
 - [Space Shooter (Playlist)](https://www.youtube.com/watch?v=GxuEeAqtlWc&list=PLuZ3rcIdDc9EA4YqLJSsrzYeUDv8Mucxz)

@@ -6,6 +6,8 @@
   
 - [Maze Generation Algorithm in C](https://www.youtube.com/watch?v=XdhfcXmfs_g)
 
+- [http server from scratch in C](https://www.youtube.com/watch?v=jYmWEgmOcGQ)
+
 ## Python
 
  - [Checkers Game Tutorial - Youtube](https://www.youtube.com/watch?v=vnd3RfeG3NM). 
@@ -42,3 +44,7 @@
 ## Typescript
 
 - [Build A Programming Language - Youtube](https://www.youtube.com/watch?v=8VB5TY1sIRo)
+
+
+## Zig
+- [Building a Redis clone](https://www.youtube.com/watch?v=0Qhbb-D9JIc&list=PLYA3HD4nElQm-85mgLkpqaC8I7k-K-5iH)

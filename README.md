@@ -7,24 +7,43 @@
 - [Maze Generation Algorithm in C](https://www.youtube.com/watch?v=XdhfcXmfs_g)
 
 - [http server from scratch in C](https://www.youtube.com/watch?v=jYmWEgmOcGQ)
-
+- 
 - [Memory Allocator](https://www.youtube.com/watch?v=oFM6RWB1170)
+  
 - [GUI Text Editor in C](https://www.youtube.com/watch?v=sZa6rfqUjJI)
+  
 - [Build a Simple Shell in C](https://www.youtube.com/watch?v=yTR00r8vBH8)
+  
 - [Arithmetic Compiler in C](https://www.youtube.com/watch?v=0k-c0vvs6HA)
+  
 - [Hash Table in C](https://www.youtube.com/watch?v=n-S9DBwPGTo)
+  
 - [Build Malware Using C](https://www.youtube.com/watch?v=6Dc8i1NQhCM)
+  
 - [Snake Game in C](https://www.youtube.com/watch?v=XTPAllcEL4s)
+  
 - [Snake Game with SDL](https://www.youtube.com/watch?v=dZNmGWH91EQ)
+  
 - [Bouncy Ball Simulation in C](https://www.youtube.com/watch?v=27iEILBpI04)
+  
 - [Coding Unbreakable Encryption in C](https://www.youtube.com/watch?v=NLk7nWt7On0)
+  
 - [File Obfuscator in C](https://www.youtube.com/watch?v=VqtgS5ux0fo)
+  
 - [Coding a Windows Keylogger in C](https://www.youtube.com/watch?v=O7SQgmwzkyE)
+  
 - [Tic-Tac-Toe Game in C with SDL](https://www.youtube.com/watch?v=gCVMkKgs3uQ)
+  
 - [GUI Calculator in C](https://www.youtube.com/watch?v=2oJTEpc9qmc)
 
 
+## C++
 
+- [Tic Tac Toe Game with Dear ImGui (C++)](https://www.youtube.com/watch?v=pryI5s8PTic)
+  
+- [Pong Game with C++ and Raylib](https://www.youtube.com/watch?v=VLJlTaFvHo4)
+  
+- [C++ Snake Game using Raylib](https://www.youtube.com/watch?v=LGqsnM_WEK4)
 
 
 

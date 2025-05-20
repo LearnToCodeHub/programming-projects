@@ -7,7 +7,7 @@
 - [Maze Generation Algorithm in C](https://www.youtube.com/watch?v=XdhfcXmfs_g)
 
 - [http server from scratch in C](https://www.youtube.com/watch?v=jYmWEgmOcGQ)
-- 
+  
 - [Memory Allocator](https://www.youtube.com/watch?v=oFM6RWB1170)
   
 - [GUI Text Editor in C](https://www.youtube.com/watch?v=sZa6rfqUjJI)

@@ -36,6 +36,19 @@
   
 - [GUI Calculator in C](https://www.youtube.com/watch?v=2oJTEpc9qmc)
 
+- [Build a Garbage Collector](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+  
+- [Virtual Machine (LC-3)](https://www.jmeiners.com/lc3-vm/)
+  
+- [Create a Simple Database](https://cstack.github.io/db_tutorial/)
+  
+- [Brickout Clone (GTK)](https://gtk.dashgl.com/?folder=Astroids)
+  
+- [Build Your Own Text Editor (Kilo)](https://viewsourcecode.org/snaptoken/kilo/)
+  
+- [Write a Video Player with FFmpeg](http://dranger.com/ffmpeg/ffmpeg.html)
+
+
 
 ## C++
 

@@ -68,6 +68,11 @@
  
 - [Creating Space Invaders Youtube](https://www.youtube.com/watch?v=Q-__8Xw9KTM)
 
+- [Pong Game in Python](https://www.youtube.com/watch?v=5NkTzvMchMw)
+  
+- [Sudoku Solver in Python](https://www.youtube.com/watch?v=b_T-brYofN4)
+
+
 
 
 

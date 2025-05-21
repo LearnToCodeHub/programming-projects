@@ -97,7 +97,24 @@
 ## Typescript
 
 - [Build A Programming Language - Youtube](https://www.youtube.com/watch?v=8VB5TY1sIRo)
+- 
+
+  ## JavaScript
+
+- [Built a Frontend Framework](https://www.youtube.com/watch?v=4jNB9qqq4Co)
+  
+- [Build Sudoku in JavaScript](http://youtube.com/watch?v=S4uRtTb8U-U)
+  
+- [Build a JSX Renderer](https://jasonformat.com/wtf-is-jsx/)
+  
+- [Build a Virtual DOM](https://www.youtube.com/watch?v=l2Tu0NqH0qU)
+  
+- [Building a Simple Virtual DOM](https://www.youtube.com/watch?v=85gJMUEcnkc)
+
 
 
 ## Zig
 - [Building a Redis clone](https://www.youtube.com/watch?v=0Qhbb-D9JIc&list=PLYA3HD4nElQm-85mgLkpqaC8I7k-K-5iH)
+
+- [Build a Shell in Zig](https://www.youtube.com/watch?v=jqCA4flRD_o&list=PLYA3HD4nElQlYKwaOT2a9abyC9HbI1aDq)
+

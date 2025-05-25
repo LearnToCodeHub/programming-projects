@@ -72,6 +72,23 @@
   
 - [Sudoku Solver in Python](https://www.youtube.com/watch?v=b_T-brYofN4)
 
+- [Python Flappy Bird AI Tutorial](https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2&index=1)
+
+- [Creating Space Invaders](https://www.youtube.com/watch?v=Q-__8Xw9KTM)
+  
+- [Creating A Tower Defense Game](https://www.youtube.com/watch?v=iLHAKXQBOoA)
+  
+- [Pygame Tutorial - Creating Tetris](https://www.youtube.com/watch?v=uoR4ilCWwKA&list=PLzMcBGfZo4-krMMJ2EPdVzsOCJDoe0K-I&index=1)
+  
+- [Snake Pygame Tutorial](https://www.youtube.com/watch?v=5tvER0MT14s&list=PLzMcBGfZo4-kQNQxlrgl5FtncvEbD0urc)
+  
+- [Tic Tac Toe with AI](https://www.youtube.com/watch?v=5s_lGC2sxwQ&list=PLzMcBGfZo4-mb4e1J1eKcdI3PquhPt2C7)
+  
+- [Python/Pygame Checkers Tutorial](https://www.youtube.com/watch?v=vnd3RfeG3NM&list=PLzMcBGfZo4-lkJr3sqpikNyVzbNZLRiT3&index=1)
+
+- [Web Scraping With Python](https://www.youtube.com/watch?v=gRLHr664tXA&list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)
+
+
 
 
 

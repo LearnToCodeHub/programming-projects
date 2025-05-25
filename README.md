@@ -62,8 +62,6 @@
 
 ## Python
 
- - [Checkers Game Tutorial - Youtube](https://www.youtube.com/watch?v=vnd3RfeG3NM). 
-
  - [Search Engine - Youtube](https://www.youtube.com/watch?v=c3cyUM-TdZg)
  
 - [Creating Space Invaders Youtube](https://www.youtube.com/watch?v=Q-__8Xw9KTM)

@@ -119,6 +119,10 @@
 - [Space Shooter (Playlist)](https://www.youtube.com/watch?v=GxuEeAqtlWc&list=PLuZ3rcIdDc9EA4YqLJSsrzYeUDv8Mucxz)
 - [Card Game](https://www.youtube.com/watch?v=Ba_-oTLyoFs)
 - [Snake Game](https://www.youtube.com/watch?v=lfiQNCNUifI)
+- [CAR RACER GAME](https://www.youtube.com/watch?v=KVbHJ_CLdkA)
+- [Breakout clone using Odinlang](https://www.youtube.com/watch?v=vfgZOEvO0kM)
+- [Make games using Odin + Raylib](https://www.youtube.com/watch?v=8J4ZGy-yIyc&list=PLxE7SoPYTef1jYHJ6NxNgocVjQKkq7eEa)
+
 
 
 

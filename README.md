@@ -85,6 +85,14 @@
 - [Python/Pygame Checkers Tutorial](https://www.youtube.com/watch?v=vnd3RfeG3NM&list=PLzMcBGfZo4-lkJr3sqpikNyVzbNZLRiT3&index=1)
 
 - [Web Scraping With Python](https://www.youtube.com/watch?v=gRLHr664tXA&list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK)
+  
+- [Pygame Car Racing Tutorial](https://www.youtube.com/watch?v=L3ktUWfAMPg&list=PLzMcBGfZo4-kmY7Nh4kI9kPPnxJ5JMRPj&index=1)
+  
+- [Python Platformer Game Tutorial](https://www.youtube.com/watch?v=B6DrRN5z_uU)
+
+- [Online Multiplayer Game](https://www.youtube.com/watch?v=-3B1v-K1oXE)
+  
+- [Python Live Chat Room](https://www.youtube.com/watch?v=mkXdvs8H7TA)
 
 
 

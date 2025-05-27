@@ -48,6 +48,23 @@
   
 - [Write a Video Player with FFmpeg](http://dranger.com/ffmpeg/ffmpeg.html)
 
+- [Designing your own File System](https://www.youtube.com/watch?v=39IBvSZq6ho)
+  
+- [2D Racing Game](https://www.youtube.com/watch?v=Xp-zn1TyMjU)
+  
+- [Puzzle Game in C](https://www.youtube.com/watch?v=a-y5qqMosjA)
+  
+- [2D Game in C](https://www.youtube.com/watch?v=bA7VCo3lwQc)
+  
+- [Hill Climb Racing in C with Raylib](https://www.youtube.com/watch?v=7x30ctbyaV0)
+  
+- [Building a Compiler in C (Playlist)](https://www.youtube.com/watch?v=-4RmhDy0A2s&list=PLRnI_2_ZWhtA_ZAzEa8uJF8wgGF0HjjEz)
+  
+- [Implementing a Hashmap in C (Playlist)](https://www.youtube.com/watch?v=sRUfL4oDA38&list=PLRnI_2_ZWhtA9_e8n5aSWQ7tMbqWCoifO)
+  
+- [Building a Virtual Machine in C (Playlist)](https://www.youtube.com/watch?v=7a5rwqi_a78&list=PLRnI_2_ZWhtCxHQ_3zDfW0-RgiWo8ftyj)
+
+
 
 
 ## C++
@@ -57,6 +74,9 @@
 - [Pong Game with C++ and Raylib](https://www.youtube.com/watch?v=VLJlTaFvHo4)
   
 - [C++ Snake Game using Raylib](https://www.youtube.com/watch?v=LGqsnM_WEK4)
+
+- [Creating Tetris in C++](https://www.youtube.com/watch?v=wVYKG_ch4yM)
+
 
 
 

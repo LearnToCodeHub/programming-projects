@@ -78,13 +78,26 @@
 - [Creating Tetris in C++](https://www.youtube.com/watch?v=wVYKG_ch4yM)
 
 
-##Go
+## Go
 
 - [Build a Database in Go](https://build-your-own.org/database/)
   
 - [Building a Chess GUI](https://www.youtube.com/watch?v=zlPDWBLhn6c)
   
 - [Make a PONG Game in Golang](https://www.youtube.com/watch?v=V_OGeYj6p00)
+
+- [Building a TodoList App](https://www.youtube.com/watch?v=XCZWyN9ZbEQ)
+
+- [Slot Machine em Python](https://www.youtube.com/watch?v=0ySoir3qBuM)
+
+- [Building a RPG in Go](https://www.youtube.com/watch?v=mu-GNPcWc5A&list=PLvN4CrYN-8i7xnODFyCMty6ossz4eW0Cn&index=1)
+- 
+- [Making a 2D game in the terminal](https://www.youtube.com/watch?v=H1X16MWKrCA)
+- 
+- [Simple Redis Server From Scratch](https://www.youtube.com/watch?v=LMrxfWB6sbQ)
+
+
+  
 
 
 

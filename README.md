@@ -91,9 +91,9 @@
 - [Slot Machine em Python](https://www.youtube.com/watch?v=0ySoir3qBuM)
 
 - [Building a RPG in Go](https://www.youtube.com/watch?v=mu-GNPcWc5A&list=PLvN4CrYN-8i7xnODFyCMty6ossz4eW0Cn&index=1)
-- 
+
 - [Making a 2D game in the terminal](https://www.youtube.com/watch?v=H1X16MWKrCA)
-- 
+  
 - [Simple Redis Server From Scratch](https://www.youtube.com/watch?v=LMrxfWB6sbQ)
 
 
@@ -134,6 +134,9 @@
 - [Online Multiplayer Game](https://www.youtube.com/watch?v=-3B1v-K1oXE)
   
 - [Python Live Chat Room](https://www.youtube.com/watch?v=mkXdvs8H7TA)
+
+- [Coding Terraria in Python](https://www.youtube.com/watch?v=Iz6alOMjNkk&list=PLvN4CrYN-8i5FUaWbJZGocrqi_7gy36N-&index=1)
+
 
 
 

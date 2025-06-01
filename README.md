@@ -187,6 +187,29 @@
   
 - [Building a Simple Virtual DOM](https://www.youtube.com/watch?v=85gJMUEcnkc)
 
+- [JavaScript Physics Simulation](https://www.youtube.com/watch?v=dJNFPv9Mj-Y)
+  
+- [Super Mario with HTML and JavaScript](https://www.youtube.com/watch?v=ip8AwXJYP_w)
+  
+- [CPU Emulator in JavaScript](https://www.youtube.com/watch?v=ghwGfaOM00s)
+  
+- [Bubble Sort Visualization](https://www.youtube.com/watch?v=RQf1Vv3cvAI)
+  
+- [Run-Length Encoding (RLE) Compression for Images](https://www.youtube.com/watch?v=QXfhaeIXZRo)
+  
+- [Falling Sand Simulation](https://www.youtube.com/watch?v=L4u7Zy_b868)
+  
+- [Sound Visualization](https://www.youtube.com/watch?v=2O3nm0Nvbi4)
+  
+- [ASCII Text Images](https://www.youtube.com/watch?v=55iwMYv8tGI)
+  
+- [Flappy Bird in JavaScript](https://www.youtube.com/watch?v=cXgA1d_E-jY)
+  
+- [Space Invaders in JavaScript](https://www.youtube.com/watch?v=biN3v3ef-Y0)
+  
+- [Maze Generator](https://www.youtube.com/watch?v=HyK_Q5rrcr4)
+
+
 
 
 ## Zig

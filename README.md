@@ -209,6 +209,25 @@
   
 - [Maze Generator](https://www.youtube.com/watch?v=HyK_Q5rrcr4)
 
+- [Build Candy Crush](https://www.youtube.com/watch?v=8yIKZQMGi0A)
+  
+- [Code Minesweeper Game](https://www.youtube.com/watch?v=AfhfAxKFP-s)
+  
+- [Code Blackjack with JavaScript](https://www.youtube.com/watch?v=bMYCWccL-3U)
+  
+- [Create Flappy Bird Clone](https://www.youtube.com/watch?v=jj5ADM2uywg)
+  
+- [Code Space Invaders](https://www.youtube.com/watch?v=v74X5dtDLvg)
+  
+- [Code Brick Breaker Game](https://www.youtube.com/watch?v=EmhkLLWAZ8E)
+  
+- [Code Pacman in JavaScript](https://www.youtube.com/watch?v=WxeTMsaSOaA)
+  
+- [Particles in JavaScript](https://www.youtube.com/watch?v=40KS_irnWBw)
+  
+- [Pong Clone in JavaScript](https://www.youtube.com/watch?v=en4fOcikNec)
+
+
 
 
 

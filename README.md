@@ -77,6 +77,22 @@
 
 - [Creating Tetris in C++](https://www.youtube.com/watch?v=wVYKG_ch4yM)
 
+- [Particle Simulation in C++](https://www.youtube.com/watch?v=XL8B5nzNEOc)
+    
+- [Simulating Gravity in C++](https://www.youtube.com/watch?v=_YbGWoUaZg0)
+  
+- [Retro Arcade Racing Game](https://www.youtube.com/watch?v=KkMZI5Jbf18)
+  
+- [First Person Shooter at Command Prompt](https://www.youtube.com/watch?v=xW8skO7MFYw)
+  
+- [Programming Mazes](https://www.youtube.com/watch?v=Y37-gB83HKE)
+  
+- [Flappy Bird in C++](https://www.youtube.com/watch?v=b6A4XHkTjs8)
+  
+- [Tetris from Scratch](https://www.youtube.com/watch?v=8OK8_tHeCIA)
+  
+- [Snake Game in C++](https://www.youtube.com/watch?v=e8lYLYlrGLg)
+
 
 ## Go
 

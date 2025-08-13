@@ -93,6 +93,13 @@
   
 - [Snake Game in C++](https://www.youtube.com/watch?v=e8lYLYlrGLg)
 
+- [Build a Password Manager in C++](https://www.youtube.com/watch?v=LiQSm8pPHGE)
+   
+- [Build a Maze Generator in C++](https://www.youtube.com/watch?v=mGdhCyzlcX4)
+  
+- [Rock Paper Scissors in C++](https://www.youtube.com/watch?v=U7qT5LVnJho)
+
+
 
 ## Go
 
